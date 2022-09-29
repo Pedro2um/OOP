@@ -1,2 +1,2 @@
 # OOP
-ṕrogramação orientada objeto
+programação orientada objeto
